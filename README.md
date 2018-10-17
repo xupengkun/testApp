@@ -19,5 +19,7 @@ itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/
 ##### 安装ios步骤
 
 > 1、复制上面的全路径，在safari中复制并转到
+
 > 2、会提示是否使用iTunes打开 ， 点击确定
+
 > 3、会提示是否安装GKE ， 点击安装
